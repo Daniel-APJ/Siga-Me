@@ -40,11 +40,11 @@ O sistema oferece uma interface gráfica que permite:
 ---
 
 ## 📁 Funcionalidades do Sistema
-*Menu Principal:*
-✅ Cadastrar Aluno — Criação de novos registros de alunos
-✅ Matricular Aluno — Associação de alunos a cursos, semestres e matérias
-✅ Gerenciar Cadastro — Permite editar e excluir registros de alunos
-⚠️ Gerenciar Matrículas — Funcionalidade incompleta / em desenvolvimento
+- *Menu Principal:*
+- ✅ Cadastrar Aluno — Criação de novos registros de alunos
+- ✅ Matricular Aluno — Associação de alunos a cursos, semestres e matérias
+- ✅ Gerenciar Cadastro — Permite editar e excluir registros de alunos
+- ⚠️ Gerenciar Matrículas — Funcionalidade incompleta / em desenvolvimento
 
 ### O sistema usa ComboBox para carregar dinamicamente os cursos, semestres e matérias cadastrados no banco de dados.
 
