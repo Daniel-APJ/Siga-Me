@@ -1,0 +1,32 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+/*
+ * Estilos para os ComboBoxes na tela de Matrícula de Aluno
+ */
+
+/* Estilo para o texto do item que aparece na caixa do ComboBox depois de selecionado */
+.combo-box .label {
+    -fx-text-fill: white;
+}
+
+/* Estilo para CADA item na lista suspensa (dropdown) */
+.combo-box .list-cell {
+    -fx-text-fill: white; /* Cor do texto dos itens na lista */
+    -fx-background-color: #212430; /* Cor de fundo dos itens (mesma do ComboBox) */
+}
+
+/* Estilo para o item da lista quando o mouse passa por cima (hover) */
+.combo-box .list-cell:hover {
+    -fx-background-color: #212430; /* Cor de fundo mais clara para destacar */
+    -fx-text-fill: white;
+}
+
+/* Estilo para o item que está ATUALMENTE selecionado dentro da lista suspensa */
+.combo-box .list-cell:filled:selected {
+    -fx-background-color: #212430; /* Cor de destaque vermelha para o item selecionado */
+    -fx-text-fill: white;
+}
+}

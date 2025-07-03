@@ -1,0 +1,21 @@
+@font-face {
+    -fx-font-family: "Poppins";
+    -fx-src: url("resources/br.com.fatec.fonts/Poppins-Regular.ttf");
+    -fx-font-weight: normal;
+}
+
+@font-face {
+    -fx-font-family: "Poppins";
+    -fx-src: url("resources/br.com.fatec.fonts/Poppins-Bold.ttf");
+    -fx-font-weight: bold;
+}
+
+.mainFxmlClass {
+
+}
+
+#nome_txt, #cpf_txt, #tel_txt, #email_txt, #dataNasc_txt {
+    -fx-text-fill: #FFFFFF;
+    /*-fx-font-family: "Poppins", sans-serif;
+    -fx-size: 30px;*/
+}
