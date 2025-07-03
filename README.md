@@ -39,8 +39,8 @@ O sistema oferece uma interface gráfica que permite:
 
 ---
 
-## 📁 Funcionalidades do Sistema
-- *Menu Principal:*
+## 📁 Funcionalidades do Sistema:
+*Menu Principal:*
 - ✅ Cadastrar Aluno — Criação de novos registros de alunos
 - ✅ Matricular Aluno — Associação de alunos a cursos, semestres e matérias
 - ✅ Gerenciar Cadastro — Permite editar e excluir registros de alunos
